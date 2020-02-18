@@ -1,0 +1,19 @@
+{
+  "name": "zenmusic-infoapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "last-fm": "^5.2.2",
+    "youtube-info": "^1.3.2",
+    "yt-search": "^1.1.2"
+  }
+}
